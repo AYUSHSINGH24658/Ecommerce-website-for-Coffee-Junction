@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     let navbar = document.querySelector('.navbar');
     let searchForm = document.querySelector('.search-form');
-    let cartItem = document.querySelector('.cart-items-container');
+    let cartItem = document.querySelector('.cart-item-container');
 
     let menuBtn = document.querySelector('#menu-btn');
     let searchBtn = document.querySelector('#search-btn');
