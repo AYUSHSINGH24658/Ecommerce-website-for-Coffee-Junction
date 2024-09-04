@@ -87,6 +87,7 @@ section {
     left: 0;
     right: 0;
     z-index: index 1000;
+    /* height: 50rem; */
 }
 
 .header .logo img {
@@ -95,7 +96,8 @@ section {
 
 .header .navbar a {
     margin: 0 1rem;
-    font: size 1.6rem;
+    /* font: size 2.6rem; */
+    font-size: 2.3rem;
     color: #fff;
 }
 
@@ -235,7 +237,7 @@ header .navbar a:hover {
 }
 
 .home .content p {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: lighter;
     line-height: 1.8;
     padding: 1rem 0;
